@@ -11,7 +11,7 @@ I do not save or collect data of any kind from you. Whether Apple does you have 
 
 ## Support
 
-Wenn ihr ein Problem mit der App habt kontaktiert mich bitte unter bernhard.sill@gmx.de oder eröffnet einen Issue auf der Github Seite.
+Wenn ihr ein Problem mit der App habt kontaktiert mich bitte unter bernhard.sill22@gmail.com oder eröffnet einen Isue auf der Github Seite.
 
 ### Datenschutz
 
