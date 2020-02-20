@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my support Website
 
-You can use the [editor on GitHub](https://github.com/BurnsProjects/AnnoCalcP/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you have any issues with this app please feel free to contact me at bernhard.sill22@gmail.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy
 
-### Markdown
+I will save emails you send me in order to answer them. I will never publicate the content of this emails.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I do not save or collect data of any kind from you. Whether Apple does you have to look up with their privacy policy.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BurnsProjects/AnnoCalcP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
