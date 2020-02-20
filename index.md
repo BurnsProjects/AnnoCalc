@@ -1,6 +1,6 @@
 ## Welcome to my support Website
 
-If you have any issues with this app please feel free to contact me at bernhard.sill22@gmail.com.
+If you have any issue with this app please feel free to contact me at bernhard.sill22@gmail.com.
 
 ### Privacy
 
